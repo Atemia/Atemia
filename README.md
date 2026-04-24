@@ -2,7 +2,7 @@
 
 # Joseph Atemia
 
-**Bioinformatics Researcher | Computational Biologist | PhD**
+**Postdoctoral Researcher | Computational Biologist | PhD**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-atemia/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mulamajose@gmail.com)
@@ -13,9 +13,13 @@
 
 ### About Me
 
-I'm a bioinformatics researcher with a PhD from **Heinrich Heine University Düsseldorf**, where I focused on computational approaches to study genetic diversity and adaptation in teosinte — the wild relative of maize. I specialize in large-scale genomic data analysis, NGS pipelines, and developing bioinformatics tools for plant genomics research.
+I am a **Postdoctoral Researcher** in Computational Biology at the Max Planck Institute for Biology Tübingen, specializing in **plant genomics and population genomics**. My research leverages large-scale genomic data and computational approaches to uncover the molecular and evolutionary mechanisms underlying genetic diversity, adaptation, and phenotypic variation in plants.
 
-I'm currently based at **Forschungszentrum Jülich** and actively seeking new challenges in research or industry settings.
+**Current Research**: I investigate the genomics of *Cucumis metuliferus* (Horned melon), integrating genome-wide association studies, population genomics, and transcriptomic analyses to link genetic variation with ecological adaptation and agronomic traits.
+
+**Expertise**: NGS data analysis, whole genome and transcriptome sequencing, variant calling, population genetics, phylogenetics, statistical modeling, and bioinformatics tool development for genomic research.
+
+**Background**: PhD in Bioinformatics from Heinrich Heine University Düsseldorf, where I conducted comprehensive genomic studies of teosinte (*Zea mays* ssp.), the wild relative of cultivated maize, to identify genetic resources for climate-resilient crop breeding.
 
 ---
 
