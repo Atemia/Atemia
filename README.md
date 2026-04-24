@@ -2,115 +2,45 @@
 
 # Joseph Atemia
 
-**Postdoctoral Researcher | Computational Biologist | PhD**
+**Postdoctoral Researcher · Max Planck Institute for Biology Tübingen**  
+*Plant Genomics · Population Genetics · Bioinformatics*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-atemia/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mulamajose@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-atemia/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mulamajose@gmail.com)
 
 </div>
 
 ---
 
-### About Me
+I build pipelines and tools to make sense of large-scale genomic data — from wild maize relatives to fungal pathogens to horned melon. My work sits at the intersection of population genetics, comparative genomics, and computational biology.
 
-I am a **Postdoctoral Researcher** in Computational Biology at the Max Planck Institute for Biology Tübingen, specializing in **plant genomics and population genomics**. My research leverages large-scale genomic data and computational approaches to uncover the molecular and evolutionary mechanisms underlying genetic diversity, adaptation, and phenotypic variation in plants.
-
-**Current Research**: I investigate the genomics of *Cucumis metuliferus* (Horned melon), integrating genome-wide association studies, population genomics, and transcriptomic analyses to link genetic variation with ecological adaptation and agronomic traits.
-
-**Expertise**: NGS data analysis, whole genome and transcriptome sequencing, variant calling, population genetics, phylogenetics, statistical modeling, and bioinformatics tool development for genomic research.
-
-**Background**: PhD in Bioinformatics from Heinrich Heine University Düsseldorf, where I conducted comprehensive genomic studies of teosinte (*Zea mays* ssp.), the wild relative of cultivated maize, to identify genetic resources for climate-resilient crop breeding.
+```
+Current focus  →  Cucumis metuliferus genomics @ Weigel Lab, MPI Tübingen
+PhD            →  Teosinte genomics, Heinrich Heine University Düsseldorf
+```
 
 ---
 
-### Research Interests
+**Languages & Tools**
 
-- **NGS Genomics** — whole genome/transcriptome sequencing & analysis
-- **Population Genetics & Phylogenetics**
-- **Genome-Wide Association Studies (GWAS)**
-- **RNA-Seq** — data processing and differential expression analysis
-- **Bioinformatics Tool Development**
-- **Machine Learning** in genomics
-
----
-
-### Technical Skills
-
-| Category | Tools & Technologies |
-|---|---|
-| **Languages** | Python, R, Bash |
-| **HPC / Computing** | SLURM, Sun Grid Engine, Git |
-| **NGS Analysis** | Alignment, assembly, annotation, variant calling |
-| **Statistics** | Linear/mixed models, multivariate analysis, GWAS |
-| **Wet Lab** | DNA/RNA extraction, quantification, PCR |
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![SLURM](https://img.shields.io/badge/SLURM-HPC-informational?style=flat-square)
 
 ---
 
-### Projects
+**Selected Publications**
 
-#### Comparative Genomics of Wild Relatives of Maize
-- Researched genetic diversity and local adaptation in *Zea mays* subsp. (*teosinte*) to identify traits for crop improvement under environmental stresses.
-- Managed end-to-end genomic data analysis pipelines, from raw sequencing data to biological insights.
-- Contributed knowledge to conservation and climate-resilient crop breeding initiatives.
-
-#### [GeneExpressionPlots](https://github.com/usadellab/GeneExpressionPlots)
-- A web-based tool designed to help researchers explore and interactively visualize complex gene expression datasets.
-- Enables exploration of plant omics data directly in the browser — no installation required.
-
-#### [ProtScriber](https://github.com/usadellab/prot-scriber)
-- A Rust-based tool that streamlines protein sequence annotation for genomics research.
-- Automates the process of generating human-readable descriptions for predicted protein sequences.
-
-#### Population Genetics of *Magnaporthe oryzae*
-- Analyzed whole genome sequences to uncover genetic diversity and migration dynamics of the finger millet blast pathogen across Eastern Africa.
-- Applied bioinformatics pipelines for SNP detection, population clustering, and diversity metrics.
+- Pan-genome of 226 *Magnaporthe oryzae* strains from eastern Africa — [bioRxiv 2025](https://doi.org/10.1101/2025.10.14.682320)
+- From habitat to genotype: climate, phenotypes & taxonomy in teosinte — [preprint](https://www.authorea.com/users/872144/articles/1252818-from-habitat-to-genotype-the-complex-interplay-of-climate-phenotypes-and-taxonomy-in-teosinte)
+- GXP: Analyze and plot plant omics data in web browsers — [Plants 2022](https://www.mdpi.com/2223-7747/11/6/745)
 
 ---
 
-### Publications
+<div align="center">
 
-1. **GXP: Analyze and Plot Plant Omics Data in Web Browsers**  
-   Constantin Eiteneuer†, David Velasco†, **Joseph Atemia**†, et al. — *Plants, 2022*  
-   [Read publication](https://www.mdpi.com/2223-7747/11/6/745)
+📄 [Full CV & detailed profile](CV.md)
 
-2. **From Habitat to Genotype: The Complex Interplay of Climate, Phenotypes, and Taxonomy in Teosinte**  
-   **Joseph Atemia**†, Wegier Ana, Rivera-Rodríguez Diana, et al.  
-   [Read preprint](https://www.authorea.com/users/872144/articles/1252818-from-habitat-to-genotype-the-complex-interplay-of-climate-phenotypes-and-taxonomy-in-teosinte)
-
-3. **Pan-genome Analyses of 226 Finger Millet-Infecting *Magnaporthe oryzae* Strains from Eastern Africa**  
-   Peng Qi, Bochra A. Bahri, Jie Zhu, Hallie C. Wright, Kathryn A. Prado, Yunus Sahin, Hao Wang, Dong Won Kim, Brandon Mangum, Jane Grimwood, Jerry Jenkins, **Joseph M. Atemia**, et al. — *bioRxiv, 2025*  
-   [Read preprint](https://doi.org/10.1101/2025.10.14.682320)
-
----
-
-### Presentations
-
-| Year | Conference | Location |
-|---|---|---|
-| 2024 | International Plant & Animal Genome Conference (PAG) | San Diego, USA |
-| 2022 | German Conference on Bioinformatics (GCB) | Halle (Saale), Germany |
-| 2020 | International Conference on Intelligent Systems for Molecular Biology (ISMB) | Virtual |
-| 2020 | Horticultural Association of Kenya Conference | Virtual |
-
----
-
-### Professional Development
-
-- **Helmholtz HIDA Incubator Summer Academy** — Statistical Learning, Jülich, Germany
-- **Advanced Bioinformatics (AfriBOP 2019)** — Facilitator, Kenya
-- **Data Mining & Integration (NoSQL, SPARQL)** — Pwani University, Kenya
-- **EuPathDB & CliniEpiDB Data Resources Workshop** — icipe, Kenya
-
----
-
-### Professional Memberships
-
-- **Africa Society for Bioinformatics and Computational Biology (ASBCB)**
-- **Rotary International — Rotaract Club of Kilifi**
-
----
-
-### Get in Touch
-
-- **Email**: mulamajose@gmail.com | j.atemia@fz-juelich.de
-- **LinkedIn**: [joseph-atemia](https://www.linkedin.com/in/joseph-atemia/)
+</div>
