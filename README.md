@@ -32,7 +32,7 @@ PhD            →  Teosinte genomics, Heinrich Heine University Düsseldorf
 ---
 
 **Selected Publications**
-
+- A Modular, AI-assisted Digitization Toolkit for Resource-Constrained Herbaria: A Case Study from Zimbabwe [bioRxiv 2026](https://doi.org/10.64898/2026.07.20.739607)
 - Pan-genome of 226 *Magnaporthe oryzae* strains from eastern Africa — [bioRxiv 2025](https://doi.org/10.1101/2025.10.14.682320)
 - From habitat to genotype: climate, phenotypes & taxonomy in teosinte — [preprint](https://www.authorea.com/users/872144/articles/1252818-from-habitat-to-genotype-the-complex-interplay-of-climate-phenotypes-and-taxonomy-in-teosinte)
 - GXP: Analyze and plot plant omics data in web browsers — [Plants 2022](https://www.mdpi.com/2223-7747/11/6/745)
